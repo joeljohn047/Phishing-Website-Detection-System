@@ -3,7 +3,6 @@ Phishing is a cyberattack where fake websites mimic trusted platforms to steal s
 
 
 
-# Phishing Website Detection System
 
 > **For educational and authorized use only. Do not scan URLs without permission.**
 
