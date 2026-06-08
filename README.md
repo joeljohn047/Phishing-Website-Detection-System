@@ -1,4 +1,4 @@
-# Phishing-Website-Detection-System
+# Phishing-Website-Detection System
 Phishing is a cyberattack where fake websites mimic trusted platforms to steal sensitive data like passwords and banking details. This system uses machine learning to analyze URL patterns and detect suspicious features, helping users identify potentially harmful websites before sharing personal information.
 
 
@@ -260,8 +260,13 @@ http://127.0.0.1:5000
 1. Enter any URL in the input field (e.g. `http://suspicious-login.com/paypal`)
 2. Click **Submit**
 3. The result appears on the page:
+<<<<<<< HEAD
    - ✅ `This is a healthy and Safe Website !!`
    - 🚨 `This is a Phishing Website`
+=======
+   -  `This is a healthy and Safe Website !!`
+   -  `This is a Phishing Website`
+>>>>>>> origin/main
 
 ### Retrain the model (optional)
 
@@ -302,3 +307,9 @@ A URL is flagged as phishing if **any one** of the three signals is triggered �
 ## Legal Disclaimer
 
 This tool is intended strictly for **educational use and authorized security research**. Do not use it to scan URLs or systems without explicit permission. The authors accept no liability for misuse.
+<<<<<<< HEAD
+=======
+
+
+## thank you
+>>>>>>> origin/main
