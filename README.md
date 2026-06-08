@@ -302,12 +302,8 @@ A URL is flagged as phishing if **any one** of the three signals is triggered â€
 
 ---
 
-## Legal Disclaimer
-
-This tool is intended strictly for **educational use and authorized security research**. Do not use it to scan URLs or systems without explicit permission. The authors accept no liability for misuse.
-<<<<<<< HEAD
 =======
 
 
 ## thank you
->>>>>>> origin/main
+
