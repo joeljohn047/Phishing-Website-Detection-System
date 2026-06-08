@@ -215,7 +215,6 @@ Open `app.py` and replace the placeholder:
 VT_API_KEY = "your_actual_api_key_here"
 ```
 
-> **Note:** The free VirusTotal API tier allows 4 requests per minute. The app will still work without a valid key but the VirusTotal check will fail silently.
 
 ### 4. Ensure model files are present
 
@@ -264,7 +263,7 @@ http://127.0.0.1:5000
 =======
    -  `This is a healthy and Safe Website !!`
    -  `This is a Phishing Website`
->>>>>>> origin/main
+
 
 ### Retrain the model (optional)
 
